@@ -1,0 +1,20 @@
+.heading {
+    width: 60%;
+font-size: 25px;
+}
+body {
+    background-color:lawngreen;
+}
+
+#camera {
+    border:2px solid red;
+    width: 350px;
+    height: 340px;
+}
+#result {
+    border: rgb(248, 25, 9);
+    border-width: 3px;
+    border-style:groove;
+    width: 350px;
+    height: 350px;
+}
